@@ -2,9 +2,7 @@
 
 这种情况下，需要一定要拔掉3个跳帽！
 视频链接：【全N MOS FOC驱动板采用六步换相法驱动霍尔无刷电机详解。-哔哩哔哩】https://b23.tv/qKCn5K
-视频中的程序链接：https://pan.baidu.com/s/1Ij5zAHLEqn4RSChK3rSakA 
-提取码：zmck
 
-esp32,stm32在arduinoIDE上的开发教程：
+esp32,stm32在arduinoIDE上的simplefoc开发教程：
 链接：https://pan.baidu.com/s/1G6JDwp79-Njr9FF_5TvtRQ 
 提取码：zmck 
